@@ -14,5 +14,5 @@ npm install
 - Start server using given command
 
 ```shell
-node app.js
+npm start
 ```
