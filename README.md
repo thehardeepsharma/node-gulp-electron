@@ -1,5 +1,5 @@
 # node-gulp-electron
-This repository based on user login and logout process by node js , express js and mongoose
+This repository based on implementation of gulp with electron for copying file from one 'source' directory to 'destination' directory.
 
 ## Install
 
