@@ -1,5 +1,5 @@
 # node-gulp-electron
-This repository based on implementation of gulp with electron for copying file from one 'source' directory to 'destination' directory.
+This repository based on implementation of gulp with electron for copying file automatically from 'source' directory to 'destination' directory.
 
 ## Install
 
